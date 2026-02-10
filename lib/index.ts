@@ -8,6 +8,6 @@ export * from './Measure/MeasurePoint';
 
 export * from './SceneClipper/AbstractSceneClipper';
 export * from './SceneClipper/SceneClipperBox';
-export * from './RouletteViewer';
+export * from './viewer/RouletteViewer';
 
 export * from './Snap';

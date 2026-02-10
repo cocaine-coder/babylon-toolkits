@@ -1,6 +1,6 @@
 
 import { ArcRotateCamera } from '@babylonjs/core';
-import { Utils } from './utils';
+import { Utils } from '../utils';
 
 export interface RouletteViewerOptions {
     camera: ArcRotateCamera;
